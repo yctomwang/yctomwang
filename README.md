@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yctomwang or Thomas a recent new grad from UQ software engineering ;) 
+- 👋 Hi, I’m @yctomwang or Thomas, from UQ software engineering ;) 
 - 👀 I’m interested in coding , and sometimes i make videos about data strcuture and algs, 
 
 
