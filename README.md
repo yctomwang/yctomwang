@@ -1,22 +1,5 @@
 - 👋 Hi, I’m @yctomwang or Thomas, from UQ software engineering ;) 
 - 👀 I’m interested in coding , and sometimes i make videos about data strcuture and algs.
-- languages:
-  - Python
-  - Javascript
-  - Java
-  - Typescript
-tools:
-  - k8s
-  - terraform
-  - SQL
-cloud:
-  - EC2
-  - S3
-  - ECS
-  - EKS
-  - Lambda
-  - Cloudformation
-
 
 
 <!---
