@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yctomwang or Thomas, I currently work for Australia's most 'loved' everyday brand as a backend software engineer. 
+- 👋 Hi, I’m @yctomwang or Thomas, I currently work for Australia's most 'loved' everyday brand as a backend software engineer working on core infrastructure.
 
 
 
