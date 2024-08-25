@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wong, I currently work for Australia's most 'loved' everyday brand as a 'bit plumer' working on core infrastructure.
+- 👋 Hi, I’m Tom aka Thomas, I currently work for Australia's most 'loved' everyday brand as a 'bit plumer' working on core infrastructure.
 
 
 
